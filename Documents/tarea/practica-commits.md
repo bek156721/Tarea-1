@@ -44,9 +44,9 @@ Algo sobre mí : Soy muy risueña
 **Qué hacer:** Escribe tres cosas concretas que aprendiste en esta sesión.  
 **Commit:** `docs(aprendizaje): agrega notas de la sesión`
 
-1. 
-2. 
-3. 
+1. Aprendí que es un repositorio (carpeta que regitra cambios)
+2. Aprendí algunos datos curiosos como que se cambió la palabra "master" por la palabra "main", ya que la palabra "master" se relacionaba a la esclavitud
+3. Aprendí la diferencia entre git y github
 
 ---
 
