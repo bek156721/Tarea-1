@@ -57,12 +57,12 @@ Algo sobre mí : Soy muy risueña
 
 | Comando | ¿Qué hace? |
 |---------|------------|
-| `git init` | |
-| `git status` | |
-| `git add .` | |
-| `git commit -m "..."` | |
-| `git log --oneline` | |
-| `git push` | |
+| `git init` |inicia git|
+| `git status` |revisa el estatus en el que se encuentra el documento|
+| `git add .` |"sigue" el archivo seleccionado|
+| `git commit -m "..."` |se registran los cambios hechos y el tipo de cambio que se realizó|
+| `git log --oneline` |historial de commits en una sola linea|
+| `git push` |sube los cambios ye commits que se hayan realizados a un repositorio de GitHub|
 
 ---
 
