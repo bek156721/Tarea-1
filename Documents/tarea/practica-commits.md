@@ -57,12 +57,14 @@ Algo sobre mí : Soy muy risueña
 
 | Comando | ¿Qué hace? |
 |---------|------------|
-| `git init` |inicia git|
-| `git status` |revisa el estatus en el que se encuentra el documento|
-| `git add .` |"sigue" el archivo seleccionado|
-| `git commit -m "..."` |se registran los cambios hechos y el tipo de cambio que se realizó|
-| `git log --oneline` |historial de commits en una sola linea|
-| `git push` |sube los cambios ye commits que se hayan realizados a un repositorio de GitHub|
+| `git init` | Inicializa un repositorio Git en la carpeta actual |
+| `git status` | Muestra el estado actual de los archivos y cambios del repositorio |
+| `git add .` | Agrega todos los archivos modificados al área de preparación (staging area)|
+| `git commit -m "..."` | Guarda un registro de los cambios realizados junto con un mensaje descriptivo del cambio hecho |
+| `git log --oneline` | Muestra el historial de commits en una sola línea |
+| `git push` | Sube los commits del repositorio local al repositorio remoto en GitHub. |
+```
+
 
 ---
 
@@ -71,11 +73,11 @@ Algo sobre mí : Soy muy risueña
 **Qué hacer:** Cambia `[ ]` por `[x]` en cada punto que ya dominas.  
 **Commit:** `chore(practica): actualiza checklist de avance`
 
-- [ ] Hice `git init` sin ayuda
-- [ ] Entiendo para qué sirve el Staging Area
-- [ ] Escribí un mensaje de commit con formato Conventional Commits
-- [ ] Puedo ver el historial con `git log`
-- [ ] Completé todos los niveles de esta práctica
+- [x] Hice `git init` sin ayuda
+- [x] Entiendo para qué sirve el Staging Area
+- [x] Escribí un mensaje de commit con formato Conventional Commits
+- [x] Puedo ver el historial con `git log`
+- [x] Completé todos los niveles de esta práctica
 
 ---
 
